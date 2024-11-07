@@ -1,0 +1,7 @@
+streamlit
+transformers
+torch
+pillow
+sqlalchemy<2.0.0
+pandas
+plotly
